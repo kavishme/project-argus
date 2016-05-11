@@ -1,0 +1,25 @@
+=Different indexes:
+==ONI
+At NOAA, the official ENSO indicator is the Oceanic Niño Index (ONI), which is based on sea surface temperature (SST) in the east-central tropical Pacific Ocean.
+---------------------------------------------------------------------------------------
+==SOI
+The oldest indicator of the ENSO state is the Southern Oscillation Index (SOI): the difference between the atmospheric pressure at sea level at Tahiti and at Darwin. A seesaw in pressure at these locations reflects the atmospheric component of ENSO, discovered in the early 1900s by Walker and Bliss (1932) and others. During El Niño, the pressure becomes below average in Tahiti and above average in Darwin, and the Southern Oscillation Index is negative. During La Niña, the pressure behaves oppositely, and the index becomes positive.
+
+1. Location of the two stations whose sea level pressures contribute to the Southern Oscillation Index (SOI): one over Tahiti, in French Polynesia, and one over Darwin, Australia. NOAA Climate.gov image by Fiona Martin.
+
+The fact that the SOI is based on the sea level pressure at just two individual stations means it can be affected by shorter-term, day-to-day or week-to-week fluctuations unrelated to ENSO. But averaging the index values over months or seasons helps to isolate more sustained deviations from the average, like those associated with ENSO.
+---------------------------------------------------------------------------------------
+==ESO
+Another limitation of the Southern Oscillation Index is that both Tahiti and Darwin are located somewhat south of the equator (Tahiti at 18˚S, Darwin at 12˚S), while the ENSO phenomenon is focused more closely along the equator. The Equatorial Southern Oscillation Index overcomes this problem, as it uses the average sea level pressure over two large regions centered on the equator (5˚S to 5˚N) over Indonesia and the eastern equatorial Pacific
+
+2. Location of the two rectangular regions whose average sea level pressures are used to compute the Equatorial Southern Oscillation Index: One over the eastern equatorial Pacific, and one over Indonesia. NOAA Climate.gov image by Fiona Martin.
+However, data for this index only extend back to 1949 (2). In contrast, the Tahiti-Darwin index goes back to the late 1800s because of longer station records. Due to its longer records, the Tahiti-Darwin index was used to represent the ENSO state in a set of landmark studies relating ENSO to its global climate effects (Ropelewski and Halpert 1986, 1987, among others).
+---------------------------------------------------------------------------------------
+==Nino3.4
+Later on, sea surface temperature data were increasingly used because the ocean was recognized to be a key player in ENSO (Bjerknes 1969, Rasmussen and Carpenter 1982, Wyrtki 1985) (3). Initially, certain regions were defined for measurements—namely Niño1, Niño2 (combined into Niño1+2), Niño3 and Niño4—because of consistently available data coming from ships passing through those areas. Later, an area called Niño3.4 was identified as being the most ENSO-representative (Barnston et al. 1997). Located between (and overlapping with) Niño3 and Niño4, this is the region whose temperature anomaly is reflected in the ONI
+
+3.Location of the Niño regions for measuring sea surface temperature in the eastern and central tropical Pacific Ocean. The sea surface temperature in the Niño3.4 region, spanning from 120˚W to 170˚W longitude, when averaged over a 3-month period, forms NOAA’s official Oceanic Niño Index (the ONI). NOAA Climate.gov image by Fiona Martin.
+---------------------------------------------------------------------------------------
+
+MEI - The six variables are: sea-level pressure (P), zonal (U) and meridional (V) components of the surface wind, sea surface temperature (S), surface air temperature (A), and total cloudiness fraction of the sky (C). Observed variables over the tropical Pacific
+---------------------------------------------------------------------------------------

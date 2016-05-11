@@ -1,0 +1,19 @@
+{
+    year,
+    month,
+    region,
+    actual:{
+        "ONI - oceanic nino index",
+        "Southern Oscillation Index",
+        "Nino 3.4 SST",
+        "Coupled ENSO Index",
+        "Proxy-based ENSO Index",
+        "Multivariate ENSO index"
+    },
+    "one month pred and prob":{},
+    "two month pred and prob":{},
+    "three month pred and prob":{},
+    "four month pred and prob":{},
+    "five month pred and prob":{},
+    "six month pred and prob":{},
+}
